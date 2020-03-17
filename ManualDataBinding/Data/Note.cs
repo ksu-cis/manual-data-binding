@@ -15,6 +15,6 @@ namespace ManualDataBinding.Data
         /// <summary>
         /// The text of the note
         /// </summary>
-        public string Text { get; set; } = "";
+        public string Body { get; set; } = "";
     }
 }
